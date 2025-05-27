@@ -1,5 +1,8 @@
 ## Perculia School Doma
 
+
+![Perculia School Logo](images\perculialogo.jpg)
+
 **Location**: Doma, Nasarawa State, Nigeria  
 **Established**: 2006  
 **Founder**: Stephen Obarezi  
