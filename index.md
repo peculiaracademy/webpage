@@ -1,5 +1,3 @@
-# webpage
-This is the webpage of Peculiar Schools Doma
 # Perculia School Doma
 
 **Location**: Doma, Nasarawa State, Nigeria  
