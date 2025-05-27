@@ -1,7 +1,7 @@
 ## Perculia School Doma
 
 
-![Perculia School Logo](images\perculialogo.jpg)
+![Perculia School Logo](images/perculiarlogo.jpg)
 
 **Location**: Doma, Nasarawa State, Nigeria  
 **Established**: 2006  
